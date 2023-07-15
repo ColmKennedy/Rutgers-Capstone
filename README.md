@@ -2,7 +2,7 @@
 
 ## Work in Progress
 
-Although this project is complete, I am currently in the process of documenting and publishing it here. Currently, the most complete stage is the plots.ipynb notebook. Here you can see some of the most meaningful plots I found during Exploratory Data Analysis. If you would like to dive deeper into the analysis, check out EDA.ipynb. Although this notebook is not yet fully documented and edited, it contains much of my Data Analysis for this project.
+Although this project is complete, I am currently in the process of documenting and uploading my code here. Currently, the most complete stage is the plots.ipynb notebook. Here you can see some of the most meaningful plots I found during Exploratory Data Analysis. If you would like to dive deeper into the analysis, check out EDA.ipynb. Although this notebook is not yet fully documented and edited, it contains much of my Data Analysis for this project.
 
 ## Introduction
 
