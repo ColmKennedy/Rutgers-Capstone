@@ -1,5 +1,9 @@
 # Rutgers-Capstone Airbnb Predictions
 
+## Work in Progress
+
+Although this project is complete, I am currently in the process of documenting and publishing it here.
+
 ## Introduction
 
 This project was completed in May of 2023 as my capstone project to recieve the Data Science minor at Rutgers University. The goal of this project was to use information from Airbnb listings in New York city, to build a model to accurately predict the price of an Airbnb listing, based on known features. The data used in this project was provided by Rutgers University, and contained tens of thousands of New York City listings. Although the listings themselves were real, some of the features were modified or created by the Professor, in order to create some additional noise and/or signal in the data. The data required much cleaning, and contained many missing values. Upon submission, a 'test' dataset was provided to generate the Kaggle submission (https://www.kaggle.com/competitions/data-science-capstone-project-2023). This 'test' dataset contained new listings, with the target variable (price) ommitted. The files in this repository are Jupyter notebooks and R scripts containing the Python and R code I used to clean, analyze, model, and predict this data. 
